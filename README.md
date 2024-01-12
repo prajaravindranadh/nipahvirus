@@ -62,6 +62,12 @@ The Nipah virus, a zoonotic paramyxovirus, poses a significant threat to public 
 ![contact page](https://github.com/prajaravindranadh/nipahvirus/assets/116707962/41b67acd-a02c-49ff-979e-ef19ddcd13f4)
 
 ### Health bot:
+![healthbot](https://github.com/prajaravindranadh/nipahvirus/assets/116707962/9fa12e0c-5f0b-4064-96ee-c4b75c58194a)
+![1](https://github.com/prajaravindranadh/nipahvirus/assets/116707962/6eb991c0-56f9-4793-a1a5-c09ae3859dbf)
+![3](https://github.com/prajaravindranadh/nipahvirus/assets/116707962/669f7a89-5b1f-4a46-8db9-bdb0bae7778d)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Thanking you......
 
 
 
