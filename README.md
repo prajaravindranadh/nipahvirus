@@ -41,6 +41,30 @@ The Nipah virus, a zoonotic paramyxovirus, poses a significant threat to public 
 ![bot channels page](https://github.com/prajaravindranadh/nipahvirus/assets/116707962/10c27bef-f818-4c95-85c8-1f357caa8513)
 ### Bot web chat secret:
 ![web chat secret ](https://github.com/prajaravindranadh/nipahvirus/assets/116707962/76b18cbc-577c-48ac-8899-853b2f40fd88)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Project Screenshots:
+### Home Page:
+![Home page](https://github.com/prajaravindranadh/nipahvirus/assets/116707962/e17ba6b2-812e-4a87-b2a9-1fc6be01a7be)
+
+### About Project:
+![About project](https://github.com/prajaravindranadh/nipahvirus/assets/116707962/9369f5f5-be25-45e4-b768-d1d3a88a5cad)
+
+### Active zone page[AZURE MAPS]
+![Active Zone](https://github.com/prajaravindranadh/nipahvirus/assets/116707962/d23711e7-33da-4f49-9c38-d8c944754c37)
+
+### Symptoms Page:
+![symptom page](https://github.com/prajaravindranadh/nipahvirus/assets/116707962/f29b9a23-6efd-49c2-a8af-99d78339ecf1)
+
+### Media Page:
+![Media page](https://github.com/prajaravindranadh/nipahvirus/assets/116707962/7316442c-8cfc-457c-a392-9963174be3af)
+
+### Contact Us page:
+![contact page](https://github.com/prajaravindranadh/nipahvirus/assets/116707962/41b67acd-a02c-49ff-979e-ef19ddcd13f4)
+
+### Health bot:
+
+
+
 
 
 
