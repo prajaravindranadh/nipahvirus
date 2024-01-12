@@ -9,7 +9,7 @@ The Nipah virus, a zoonotic paramyxovirus, poses a significant threat to public 
 
 ## Azure AI Service : Health Bot
 
-### Project Demo url :
+### Project Demo url :https://calm-stone-05114c110.4.azurestaticapps.net
 ### Youtube Link url :
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  ## Azure Service Screenshots:
